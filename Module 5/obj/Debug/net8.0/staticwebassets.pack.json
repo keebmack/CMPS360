@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ryank\\OneDrive\\Point Park University\\CMPS 360\\Module 5\\wwwroot\\images\\AcrisureStadium.jpg",
+      "PackagePath": "staticwebassets\\images\\AcrisureStadium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ryank\\OneDrive\\Point Park University\\CMPS 360\\Module 5\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
       "Id": "C:\\Users\\ryank\\OneDrive\\Point Park University\\CMPS 360\\Module 5\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

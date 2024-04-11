@@ -1,0 +1,30 @@
+body {
+    background-color: #0A0A0A;
+    color: #EFECCA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.countdown-container {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #161616;
+    border: 2px solid #ffd700;
+    border-radius: 10px;
+}
+
+.countdown-container h1 {
+    color: #ffd700;
+    margin-bottom: 30px;
+}
+
+.countdown-container p {
+    font-size: 1.5em;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
